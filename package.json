@@ -1,0 +1,19 @@
+{
+  "name": "css-practice-udemy",
+  "version": "1.0.0",
+  "description": "Test project for css/scss practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidGasparyan/css-practice-udemy.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidGasparyan/css-practice-udemy/issues"
+  },
+  "homepage": "https://github.com/DavidGasparyan/css-practice-udemy#readme"
+}
