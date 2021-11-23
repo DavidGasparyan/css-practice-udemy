@@ -1,0 +1,8 @@
+// Clearfix for clearing floats on parent elements
+@mixin clearfix {
+  &::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+}
