@@ -58,15 +58,15 @@
 
 
     &--1 {
-      background-image: $gradient-secondary, url('./img/nat-5.jpg');
+      background-image: $gradient-secondary, url('../img/nat-5.jpg');
     }
 
     &--2 {
-      background-image: $gradient-primary, url('./img/nat-6.jpg');
+      background-image: $gradient-primary, url('../img/nat-6.jpg');
     }
 
     &--3 {
-      background-image: $gradient-tertiary, url('./img/nat-7.jpg');
+      background-image: $gradient-tertiary, url('../img/nat-7.jpg');
     }
   }
 
